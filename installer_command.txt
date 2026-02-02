@@ -1,0 +1,15 @@
+place the install_cmd.sh in documents
+in terminal
+run cd ~/documents
+run chmod +x install_cmd.sh
+run kate ./install_cmd.sh
+copy the code
+in terminal again
+run nano ~/.bashrc
+paste the code at the way bottem of this menu
+in terminal again
+run source ~/.bashrc
+enjoy
+
+note:if u dont have kate advanced editor install it with
+sudo apt update && sudo apt install kate
