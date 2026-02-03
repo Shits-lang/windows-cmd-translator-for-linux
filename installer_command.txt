@@ -13,3 +13,4 @@ enjoy
 
 note:if u dont have kate advanced editor install it with
 sudo apt update && sudo apt install kate
+made in ubuntu expect some things not to work during this process 
