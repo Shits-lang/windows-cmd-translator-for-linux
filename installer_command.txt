@@ -1,7 +1,7 @@
 place the install_cmd.sh in documents
 in terminal
 run cd ~/documents
-run chmod +x install_cmd.sh
+
 run kate ./install_cmd.sh
 copy the code
 in terminal again
